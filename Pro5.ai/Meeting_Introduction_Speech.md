@@ -1,6 +1,6 @@
 # Meeting Introduction Speech - Pro5.ai Vendor Partnership Call
 
-**Prepared for:** Exec-level call with Wouter Delbaere (CEO) & Nuno Covas (CCO)
+**Prepared for:** Pro5.ai vendor partnership call
 **Speaker:** Supratim Nath, Client Account Lead, ExonPro Innovations
 **Duration:** ~2 minutes
 
@@ -8,9 +8,9 @@
 
 ## OPENING & INTRO (30 sec)
 
-> Hi Wouter, hi Nuno -- thanks for taking the time today.
+> Hi everyone -- thanks for taking the time today.
 >
-> I'm Supratim Nath, Client Account Lead at ExonPro Innovations. 18+ years in IT, based in India with offices in Bengaluru, Kolkata, and Austin, Texas.
+> I'm Supratim Nath, Client Account Lead at ExonPro Innovations. 18+ years in IT.
 
 ---
 
